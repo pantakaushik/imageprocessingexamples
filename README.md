@@ -1,2 +1,2 @@
 # imageprocessingexamples
-This repo consist examples fo rimage processing using OpenCV in Python
+This repo consist examples for image processing using OpenCV in Python
